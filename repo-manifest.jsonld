@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/pypistats.org/commit/2a433267de472f51c5594029f61fc73089109646",
       "git:hexsha": "2a433267de472f51c5594029f61fc73089109646",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T07:05:39.183814+00:00"
     }
   ]
 }
